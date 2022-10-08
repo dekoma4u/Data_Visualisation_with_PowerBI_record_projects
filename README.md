@@ -3,7 +3,7 @@ This is solution of Microsoft professional program for Data Scientist "DAT207x A
 
 **[Live Report 1](https://app.powerbi.com/view?r=eyJrIjoiNTI1Yjg2Y2QtZTBlMi00NjhlLThlMjMtODZhM2YyMzNkOTJhIiwidCI6Ijc1ZGYwOTZjLThiNzItNDhlNC05YjkxLWNiZjc5ZDg3ZWUzYSIsImMiOjl9)**
 
-NB: The dataset was used for educational purpose and can not be made public at this time.
+NB: The datasets was used for educational purpose and can not be made public at this time.
 
 ![Lab All Exercise ](https://github.com/dekoma4u/Data_Visualisation_with_PowerBI_record_projects/blob/master/Lab1%20-%20All%20Exercise%20Solution/Images/Import%20Data%20from%20Access%20Database.PNG)
 
